@@ -1,0 +1,293 @@
+1. Enter clinical information:
+Type END on a new line when finished.
+
+Patient reports fever, persistent cough, chest discomfort,
+fatigue, and difficulty breathing.
+END
+
+Enter the full image path:
+pneumonia.jpeg
+
+Processing clinical information...
+
+DEBUG: 'pneumonia.jpeg'
+
+Generating multimodal AI response...
+
+========================================
+MULTIMODAL AI ANALYSIS
+========================================
+
+RETRIEVED CLINICAL KNOWLEDGE:
+
+Similarity Score: 0.9425
+TUBERCULOSIS
+
+Tuberculosis is an infectious disease that commonly affects the lungs. Symptoms may include persistent cough, fever, night sweats, fatigue, chest discomfort, and unexplained weight loss.
+
+-------------------------
+
+Similarity Score: 0.9349
+INFLUENZA
+
+Influenza is a viral respiratory illness. Common symptoms include fever, cough, sore throat, body aches, fatigue, and headache.
+
+-------------------------
+
+AI RESPONSE:
+
+**AI-Generated Analysis**
+
+Based on the provided clinical information, retrieved knowledge, and image analysis results, I can provide a concise analysis. Please note that this is AI-generated information and not a confirmed diagnosis.
+
+The patient's symptoms of fever, persistent cough, chest discomfort, fatigue, and difficulty breathing are concerning for several respiratory conditions. The retrieved knowledge suggests a high similarity score (0.9425) with Tuberculosis, which is an infectious disease that commonly affects the lungs. However, the similarity score is not high enough to confirm a diagnosis of Tuberculosis.
+
+The retrieved knowledge also suggests a moderate similarity score (0.9349) with Influenza, a viral respiratory illness. However, the symptoms presented by the patient do not fully align with the typical presentation of Influenza.
+
+Given the complexity of the patient's symptoms and the need for a definitive diagnosis, it is essential to consult a qualified healthcare professional for further evaluation and management. They will be able to perform a physical examination, take a thorough medical history, and order diagnostic tests to determine the underlying cause of the patient's symptoms.
+
+**Recommendation:**
+
+Consult a qualified healthcare professional for a comprehensive evaluation and diagnosis. They will be able to provide personalized guidance and treatment recommendations based on the patient's specific needs.
+
+**Important:**
+
+This analysis is provided for informational purposes only and should not be relied upon for making medical decisions. A qualified healthcare professional should be consulted for a definitive diagnosis and treatment plan.
+
+========================================
+
+
+
+2.Enter clinical information:
+Type END on a new line when finished.
+
+Patient reports severe headache, sensitivity to light,
+nausea, and vomiting.
+END
+
+Enter the full image path:
+Normal_BrainCT.jpeg
+
+Processing clinical information...
+
+DEBUG: 'Normal_BrainCT.jpeg'
+
+Generating multimodal AI response...
+
+========================================
+MULTIMODAL AI ANALYSIS
+========================================
+
+RETRIEVED CLINICAL KNOWLEDGE:
+
+Similarity Score: 0.9279
+MIGRAINE
+
+Migraine is a neurological condition commonly associated with recurrent severe headaches. Symptoms may include nausea, vomiting, sensitivity to light, sensitivity to sound, and visual disturbances.
+
+-------------------------
+
+Similarity Score: 0.914
+MALARIA
+
+Malaria is an infectious disease caused by parasites transmitted through mosquito bites. Symptoms may include fever, chills, sweating, headache, fatigue, nausea, and muscle aches.
+
+-------------------------
+
+AI RESPONSE:
+
+**AI-Generated Analysis**
+
+Based on the provided clinical information, retrieved knowledge, and image analysis results, I can provide a concise analysis. However, please note that this is not a definitive diagnosis, and a qualified healthcare professional should be consulted for an accurate assessment.
+
+The patient's symptoms of severe headache, sensitivity to light, nausea, and vomiting are consistent with a neurological condition. The retrieved knowledge suggests a high similarity score (0.9279) with MIGRAINE, which is a common condition characterized by recurrent severe headaches, often accompanied by nausea, vomiting, and sensitivity to light.
+
+However, it is essential to consider other potential causes, as the similarity score is not conclusive. The retrieved knowledge also mentions MALARIA, which can cause fever, chills, sweating, headache, fatigue, nausea, and muscle aches. However, the image analysis results do not provide any medical images to support or rule out these conditions.
+
+Given the incomplete information, I recommend that the patient consults a qualified healthcare professional for a thorough evaluation and diagnosis. The healthcare professional can perform a physical examination, review medical history, and order necessary tests to determine the underlying cause of the patient's symptoms.
+
+**Important:** This analysis is AI-generated and should not be considered as a definitive diagnosis. A qualified healthcare professional should be consulted for an accurate assessment and treatment plan.
+
+========================================
+
+
+
+3.Enter clinical information:
+Type END on a new line when finished.
+
+Patient reports chronic knee pain, stiffness, and reduced mobility.
+Pain becomes worse during physical activity.
+END
+
+Enter the full image path:
+Osteoarthritis.jpeg
+
+Processing clinical information...
+
+DEBUG: 'Osteoarthritis.jpeg'
+
+Generating multimodal AI response...
+
+========================================
+MULTIMODAL AI ANALYSIS
+========================================
+
+RETRIEVED CLINICAL KNOWLEDGE:
+
+Similarity Score: 0.9244
+LOWER BACK PAIN
+
+Lower back pain can result from various causes involving muscles, joints, nerves, or the spine. Symptoms may include pain, stiffness, reduced mobility, and sometimes pain that radiates into the legs.
+
+-------------------------
+
+Similarity Score: 0.9184
+OSTEOARTHRITIS
+
+Osteoarthritis is a joint condition involving degeneration of joint cartilage. Symptoms may include joint pain, stiffness, reduced movement, and discomfort that may worsen with activity.
+
+-------------------------
+
+AI RESPONSE:
+
+**AI-Generated Analysis**
+
+Based on the provided clinical information, retrieved knowledge, and image analysis results, I can provide a concise analysis. Please note that this is a generated response and not a confirmed diagnosis.
+
+The patient's symptoms of chronic knee pain, stiffness, and reduced mobility, which worsen during physical activity, are consistent with several possible conditions. The retrieved knowledge suggests a similarity with osteoarthritis, a joint condition characterized by degeneration of joint cartilage, leading to joint pain, stiffness, and reduced movement.
+
+However, it is essential to consider other potential causes, such as lower back pain, which can also radiate pain into the legs. Without further information or medical imaging, it is challenging to determine the exact cause of the patient's symptoms.
+
+**Recommendation**
+
+Given the uncertainty of this analysis, I strongly recommend that the patient consult a qualified healthcare professional for a comprehensive evaluation and diagnosis. A thorough medical history, physical examination, and potentially imaging studies (if available) are necessary to determine the underlying cause of the patient's symptoms.
+
+This AI-generated analysis is intended to provide a starting point for discussion, not a definitive diagnosis. A qualified healthcare professional should be consulted to provide personalized guidance and treatment.
+
+========================================
+
+
+
+4.Enter clinical information:
+Type END on a new line when finished.
+
+Patient reports severe pain in the side and lower back,
+nausea, vomiting, and blood in the urine.
+END
+
+Enter the full image path:
+Kidney_Stones.jpg
+
+Processing clinical information...
+
+DEBUG: 'Kidney_Stones.jpg'
+
+Generating multimodal AI response...
+
+========================================
+MULTIMODAL AI ANALYSIS
+========================================
+
+RETRIEVED CLINICAL KNOWLEDGE:
+
+Similarity Score: 0.9453
+KIDNEY STONES
+
+Kidney stones are hard deposits that can form in the kidneys. Symptoms may include severe pain in the side or back, abdominal pain, nausea, vomiting, and blood in the urine.
+
+-------------------------
+
+Similarity Score: 0.928
+ANGINA
+
+Angina refers to chest discomfort caused by reduced blood flow to the heart muscle. Symptoms may include chest pressure or pain, shortness of breath, fatigue, and discomfort that may spread to the arm, neck, jaw, or back.
+
+-------------------------
+
+AI RESPONSE:
+
+**AI-Generated Analysis**
+
+Based on the provided clinical information, retrieved knowledge, and image analysis results, I can provide a concise analysis. However, please note that this is not a substitute for a professional diagnosis, and it is essential to consult a qualified healthcare professional for an accurate diagnosis and treatment plan.
+
+The patient's symptoms of severe pain in the side and lower back, nausea, vomiting, and blood in the urine are concerning for a potential kidney stone. The retrieved knowledge suggests that kidney stones are a possible cause of these symptoms, with a similarity score of 0.9453.
+
+While the image analysis results are not available, the clinical presentation is consistent with a kidney stone. However, other conditions, such as angina, cannot be ruled out without further evaluation.
+
+It is essential to emphasize that this analysis is based on limited information and should not be relied upon for making a diagnosis. I strongly recommend that the patient consults a qualified healthcare professional, such as a primary care physician or a urologist, for a comprehensive evaluation and treatment plan.
+
+**Recommendation:**
+
+* Schedule an urgent appointment with a qualified healthcare professional to discuss the patient's symptoms and undergo further evaluation.
+* The healthcare professional may order imaging studies, such as a CT scan or ultrasound, to confirm the diagnosis and rule out other potential causes of symptoms.
+
+**Disclaimer:**
+
+This analysis is AI-generated and should not be considered a substitute for professional medical advice. The information provided is for educational purposes only and should not be relied upon for making a diagnosis or treatment plan.
+
+========================================
+
+
+
+5.Enter clinical information:
+Type END on a new line when finished.
+
+Patient reports abdominal pain that has become concentrated
+in the lower right abdomen, along with nausea, vomiting,
+fever, and loss of appetite.
+END
+
+Enter the full image path:
+Appendicitis.jpeg
+
+Processing clinical information...
+
+DEBUG: 'Appendicitis.jpeg'
+
+Generating multimodal AI response...
+
+========================================
+MULTIMODAL AI ANALYSIS
+========================================
+
+RETRIEVED CLINICAL KNOWLEDGE:
+
+Similarity Score: 0.9324
+TUBERCULOSIS
+
+Tuberculosis is an infectious disease that commonly affects the lungs. Symptoms may include persistent cough, fever, night sweats, fatigue, chest discomfort, and unexplained weight loss.
+
+-------------------------
+
+Similarity Score: 0.9264
+APPENDICITIS
+
+Appendicitis involves inflammation of the appendix. Symptoms may include abdominal pain that may become concentrated in the lower right abdomen, nausea, vomiting, fever, and loss of appetite. Prompt medical evaluation may be necessary.
+
+-------------------------
+
+AI RESPONSE:
+
+**AI-Generated Analysis**
+
+Based on the provided clinical information, retrieved knowledge, and image analysis results, I can provide a concise analysis. Please note that this is an AI-generated analysis and not a substitute for a qualified healthcare professional's diagnosis.
+
+The patient's symptoms of abdominal pain concentrated in the lower right abdomen, nausea, vomiting, fever, and loss of appetite are consistent with several possible conditions. The retrieved knowledge suggests a similarity score of 0.9264 with appendicitis, which is a common cause of these symptoms.
+
+However, it is essential to consider other potential causes, such as tuberculosis, which also presents with similar symptoms. A similarity score of 0.9324 with tuberculosis is notable, but it is essential to rule out this condition through further evaluation.
+
+Given the lack of medical images, it is challenging to determine the exact cause of the patient's symptoms. I strongly recommend consulting a qualified healthcare professional for a thorough evaluation, including a physical examination, laboratory tests, and imaging studies, to determine the underlying cause of the patient's symptoms.
+
+A qualified healthcare professional can assess the patient's symptoms, medical history, and perform a physical examination to determine the most likely cause of the patient's symptoms. They can also order diagnostic tests, such as imaging studies or laboratory tests, to confirm the diagnosis.
+
+In conclusion, while the analysis suggests a possible connection to appendicitis or tuberculosis, it is essential to consult a qualified healthcare professional for a definitive diagnosis and treatment plan.
+
+**Recommendation:**
+
+Consult a qualified healthcare professional for a thorough evaluation and diagnosis.
+
+**Disclaimer:**
+
+This analysis is AI-generated and not a substitute for a qualified healthcare professional's diagnosis.
+
+========================================

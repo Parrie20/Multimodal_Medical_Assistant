@@ -1,0 +1,285 @@
+PNEUMONIA
+
+Pneumonia is an infection that affects the lungs. Common symptoms may include fever, cough, chest discomfort, fatigue, and difficulty breathing. Pneumonia can be caused by bacteria, viruses, or fungi.
+
+---
+
+INFLUENZA
+
+Influenza is a viral respiratory illness. Common symptoms include fever, cough, sore throat, body aches, fatigue, and headache.
+
+---
+
+COMMON COLD
+
+The common cold is a viral infection affecting the upper respiratory tract. Common symptoms may include runny nose, nasal congestion, sneezing, sore throat, and mild cough.
+
+---
+
+COVID-19
+
+COVID-19 is a viral respiratory illness that can cause fever, cough, fatigue, sore throat, body aches, and difficulty breathing. Some individuals may also experience changes in taste or smell.
+
+---
+
+ASTHMA
+
+Asthma is a chronic respiratory condition involving inflammation and narrowing of the airways. Symptoms may include wheezing, shortness of breath, chest tightness, and coughing.
+
+---
+
+BRONCHITIS
+
+Bronchitis involves inflammation of the bronchial tubes in the lungs. Symptoms may include persistent cough, mucus production, chest discomfort, fatigue, and mild difficulty breathing.
+
+---
+
+COPD
+
+Chronic obstructive pulmonary disease, or COPD, is a long-term respiratory condition that can cause persistent cough, shortness of breath, wheezing, and reduced airflow.
+
+---
+
+TUBERCULOSIS
+
+Tuberculosis is an infectious disease that commonly affects the lungs. Symptoms may include persistent cough, fever, night sweats, fatigue, chest discomfort, and unexplained weight loss.
+
+---
+
+MIGRAINE
+
+Migraine is a neurological condition commonly associated with recurrent severe headaches. Symptoms may include nausea, vomiting, sensitivity to light, sensitivity to sound, and visual disturbances.
+
+---
+
+TENSION HEADACHE
+
+A tension headache commonly causes mild to moderate head pain or pressure. Symptoms may include tightness around the forehead or scalp and muscle tension in the neck or shoulders.
+
+---
+
+MENINGITIS
+
+Meningitis involves inflammation of the membranes surrounding the brain and spinal cord. Symptoms may include severe headache, fever, neck stiffness, sensitivity to light, nausea, vomiting, and confusion. Prompt medical evaluation may be necessary.
+
+---
+
+STROKE
+
+A stroke occurs when blood flow to part of the brain is interrupted or reduced. Symptoms may include sudden weakness or numbness, difficulty speaking, facial asymmetry, confusion, dizziness, or sudden difficulty walking.
+
+---
+
+EPILEPSY
+
+Epilepsy is a neurological condition associated with recurrent seizures. Symptoms can vary depending on the type of seizure and may include temporary confusion, loss of awareness, unusual movements, or convulsions.
+
+---
+
+PARKINSON'S DISEASE
+
+Parkinson's disease is a neurological disorder that primarily affects movement. Symptoms may include tremor, muscle stiffness, slowed movement, and difficulties with balance.
+
+---
+
+ALZHEIMER'S DISEASE
+
+Alzheimer's disease is a progressive neurological disorder associated with memory loss and cognitive decline. Symptoms may include difficulty remembering recent events, confusion, and changes in thinking or behavior.
+
+---
+
+HYPERTENSION
+
+Hypertension refers to persistently elevated blood pressure. It may not produce noticeable symptoms but can increase the risk of cardiovascular complications.
+
+---
+
+ANGINA
+
+Angina refers to chest discomfort caused by reduced blood flow to the heart muscle. Symptoms may include chest pressure or pain, shortness of breath, fatigue, and discomfort that may spread to the arm, neck, jaw, or back.
+
+---
+
+MYOCARDIAL INFARCTION
+
+Myocardial infarction, commonly known as a heart attack, occurs when blood flow to part of the heart muscle is blocked. Symptoms may include chest pressure or pain, shortness of breath, sweating, nausea, and discomfort spreading to the arm, jaw, neck, or back.
+
+---
+
+HEART FAILURE
+
+Heart failure occurs when the heart cannot pump blood efficiently enough to meet the body's needs. Symptoms may include shortness of breath, fatigue, swelling of the legs or ankles, and reduced ability to exercise.
+
+---
+
+ARRHYTHMIA
+
+Arrhythmia refers to an abnormal heart rhythm. Symptoms may include palpitations, dizziness, fainting, chest discomfort, fatigue, or shortness of breath.
+
+---
+
+DEEP VEIN THROMBOSIS
+
+Deep vein thrombosis involves the formation of a blood clot in a deep vein, commonly in the leg. Symptoms may include swelling, pain, tenderness, or warmth in the affected area.
+
+---
+
+DIABETES
+
+Diabetes is a metabolic condition involving abnormal regulation of blood glucose. Symptoms may include increased thirst, frequent urination, fatigue, increased hunger, and unexplained weight changes.
+
+---
+
+HYPOGLYCEMIA
+
+Hypoglycemia refers to abnormally low blood glucose levels. Symptoms may include sweating, shakiness, hunger, dizziness, weakness, confusion, and in severe cases loss of consciousness.
+
+---
+
+HYPOTHYROIDISM
+
+Hypothyroidism occurs when the thyroid gland does not produce enough thyroid hormone. Symptoms may include fatigue, weight gain, sensitivity to cold, dry skin, constipation, and slowed movement.
+
+---
+
+HYPERTHYROIDISM
+
+Hyperthyroidism occurs when the thyroid gland produces excessive thyroid hormone. Symptoms may include weight loss, rapid heartbeat, sweating, anxiety, tremors, and heat intolerance.
+
+---
+
+OBESITY
+
+Obesity is a condition involving excessive accumulation of body fat that may affect health. It can increase the risk of cardiovascular disease, diabetes, joint problems, and other health conditions.
+
+---
+
+GASTROENTERITIS
+
+Gastroenteritis involves inflammation of the stomach and intestines. Symptoms may include nausea, vomiting, diarrhea, abdominal cramps, and sometimes fever.
+
+---
+
+GASTRITIS
+
+Gastritis involves inflammation of the stomach lining. Symptoms may include upper abdominal discomfort, nausea, vomiting, bloating, and reduced appetite.
+
+---
+
+GERD
+
+Gastroesophageal reflux disease, or GERD, occurs when stomach contents frequently flow back into the esophagus. Symptoms may include heartburn, chest discomfort, regurgitation, and difficulty swallowing.
+
+---
+
+PEPTIC ULCER DISEASE
+
+Peptic ulcer disease involves sores in the lining of the stomach or upper small intestine. Symptoms may include burning abdominal pain, nausea, bloating, and changes in appetite.
+
+---
+
+APPENDICITIS
+
+Appendicitis involves inflammation of the appendix. Symptoms may include abdominal pain that may become concentrated in the lower right abdomen, nausea, vomiting, fever, and loss of appetite. Prompt medical evaluation may be necessary.
+
+---
+
+IRRITABLE BOWEL SYNDROME
+
+Irritable bowel syndrome is a digestive condition that may cause abdominal pain, bloating, diarrhea, constipation, or changes in bowel habits.
+
+---
+
+HEPATITIS
+
+Hepatitis involves inflammation of the liver. Symptoms may include fatigue, nausea, abdominal discomfort, dark urine, reduced appetite, and yellowing of the skin or eyes.
+
+---
+
+URINARY TRACT INFECTION
+
+A urinary tract infection affects parts of the urinary system. Symptoms may include pain or burning during urination, frequent urination, urgency to urinate, lower abdominal discomfort, and cloudy urine.
+
+---
+
+KIDNEY STONES
+
+Kidney stones are hard deposits that can form in the kidneys. Symptoms may include severe pain in the side or back, abdominal pain, nausea, vomiting, and blood in the urine.
+
+---
+
+DENGUE FEVER
+
+Dengue fever is a viral illness transmitted by mosquitoes. Symptoms may include high fever, severe headache, pain behind the eyes, muscle and joint pain, fatigue, nausea, and rash.
+
+---
+
+MALARIA
+
+Malaria is an infectious disease caused by parasites transmitted through mosquito bites. Symptoms may include fever, chills, sweating, headache, fatigue, nausea, and muscle aches.
+
+---
+
+SEPSIS
+
+Sepsis is a potentially serious condition resulting from an extreme response to an infection. Symptoms may include fever or low body temperature, rapid heart rate, rapid breathing, confusion, and severe weakness. Urgent medical evaluation may be necessary.
+
+---
+
+OSTEOARTHRITIS
+
+Osteoarthritis is a joint condition involving degeneration of joint cartilage. Symptoms may include joint pain, stiffness, reduced movement, and discomfort that may worsen with activity.
+
+---
+
+RHEUMATOID ARTHRITIS
+
+Rheumatoid arthritis is an inflammatory condition that can affect multiple joints. Symptoms may include joint pain, swelling, stiffness, fatigue, and reduced mobility.
+
+---
+
+GOUT
+
+Gout is an inflammatory joint condition caused by the accumulation of uric acid crystals. Symptoms may include sudden severe joint pain, swelling, redness, and warmth.
+
+---
+
+OSTEOPOROSIS
+
+Osteoporosis is a condition in which bones become weaker and more susceptible to fractures. It may not cause noticeable symptoms until a fracture occurs.
+
+---
+
+LOWER BACK PAIN
+
+Lower back pain can result from various causes involving muscles, joints, nerves, or the spine. Symptoms may include pain, stiffness, reduced mobility, and sometimes pain that radiates into the legs.
+
+---
+
+ANEMIA
+
+Anemia occurs when there is a reduced ability of the blood to carry oxygen. Symptoms may include fatigue, weakness, shortness of breath, dizziness, pale skin, and reduced exercise tolerance.
+
+---
+
+ANXIETY
+
+Anxiety can involve excessive worry or fear that may affect daily functioning. Symptoms may include restlessness, rapid heartbeat, sweating, difficulty concentrating, and sleep disturbances.
+
+---
+
+DEPRESSION
+
+Depression is a mental health condition that can involve persistent low mood and reduced interest in activities. Symptoms may include fatigue, changes in sleep, changes in appetite, difficulty concentrating, and feelings of hopelessness.
+
+---
+
+ALLERGIC RHINITIS
+
+Allergic rhinitis is an allergic reaction affecting the nasal passages. Symptoms may include sneezing, runny nose, nasal congestion, itchy eyes, and throat irritation.
+
+---
+
+SINUSITIS
+
+Sinusitis involves inflammation of the sinus cavities. Symptoms may include facial pain or pressure, nasal congestion, headache, reduced sense of smell, and nasal discharge.

@@ -1,0 +1,11 @@
+1. Pneumonia: Patient reports fever, persistent cough, chest discomfort,
+fatigue, and difficulty breathing.
+2. Neurological Symptoms / Brain CT: Patient reports severe headache, sensitivity to light,
+nausea, and vomiting.
+3. Osteoarthritis: Patient reports chronic knee pain, stiffness, and reduced mobility.
+Pain becomes worse during physical activity.
+4. Kidney Stones: Patient reports severe pain in the side and lower back,
+nausea, vomiting, and blood in the urine.
+5. Appendicitis: Patient reports abdominal pain that has become concentrated
+in the lower right abdomen, along with nausea, vomiting,
+fever, and loss of appetite.

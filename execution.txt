@@ -1,0 +1,123 @@
+========================================
+MULTIMODAL MEDICAL AI ASSISTANT
+EXECUTION INSTRUCTIONS
+========================================
+
+1. INSTALL REQUIRED LIBRARIES
+
+Install all required Python libraries using:
+
+pip install -r requirements.txt
+
+
+2. START OLLAMA
+
+Make sure Ollama is installed and running.
+
+Start the Ollama service:
+
+ollama serve
+
+Make sure the required model is available:
+
+ollama pull llama3.2:3b
+
+
+3. RUN THE PROJECT
+
+Open a terminal inside the project directory and run:
+
+python main.py
+
+
+4. TERMINAL MENU
+
+The application will display:
+
+========================================
+   MULTIMODAL MEDICAL AI ASSISTANT
+========================================
+
+Choose an option:
+
+1. Clinical Text Analysis
+2. Medical Image Analysis
+3. Text + Medical Image Analysis
+4. Exit
+
+
+5. CLINICAL TEXT ANALYSIS
+
+Enter:
+
+1
+
+Then provide clinical information.
+
+Example:
+
+Patient reports severe headache, sensitivity to light,
+nausea, and vomiting.
+
+
+6. MEDICAL IMAGE ANALYSIS
+
+Enter:
+
+2
+
+Then provide the complete path to the medical image.
+
+Example:
+
+/home/user/Downloads/medical_image.jpg
+
+Supported formats include:
+
+- JPG
+- JPEG
+- PNG
+- DICOM (.dcm)
+
+
+7. TEXT + MEDICAL IMAGE ANALYSIS
+
+Enter:
+
+3
+
+Then provide:
+
+1. Clinical information
+2. Complete path to the medical image
+
+Example clinical information:
+
+Patient has fever, persistent cough, chest discomfort,
+and difficulty breathing.
+
+Example image path:
+
+/home/user/Downloads/chest_xray.jpg
+
+
+8. EXIT
+
+Enter:
+
+4
+
+to close the application.
+
+
+========================================
+IMPORTANT NOTES
+========================================
+
+- Ensure all required Python libraries are installed.
+- Ensure Ollama is running before starting the application.
+- Ensure the llama3.2:3b model has been downloaded.
+- Use valid file paths when providing medical images.
+- The system is intended for educational and research purposes.
+- The generated output is AI-assisted information and is
+  not a definitive medical diagnosis.

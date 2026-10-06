@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+torch
+torchvision
+transformers
+open_clip_torch
+Pillow
+opencv-python
+numpy
+pydicom
+requests
+python-multipart
