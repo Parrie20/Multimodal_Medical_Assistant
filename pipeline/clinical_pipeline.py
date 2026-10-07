@@ -21,12 +21,12 @@ class ClinicalPipeline:
 
     def process(self,text: str,top_k: int = DEFAULT_TOP_K):
 
-        clinical_embedding= (
-            self.embedding_service.get_embeddings(text)
+        clinical_embedding = (
+            self.embedding_service.embed(text)
         )
 
         retrieved_documents = (
-            self.retriever.retriever(
+            self.retriever.retrieve(
                 query=text,
                 top_k=top_k
             )
@@ -50,4 +50,3 @@ class ClinicalPipeline:
             query=text,
             items=evidence_items
         )
-    
