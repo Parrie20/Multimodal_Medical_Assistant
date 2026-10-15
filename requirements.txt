@@ -10,3 +10,4 @@ numpy
 pydicom
 requests
 python-multipart
+pypdf

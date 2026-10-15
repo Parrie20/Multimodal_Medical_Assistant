@@ -1,14 +1,15 @@
 import os
 
 from pipeline.clinical_pipeline import ClinicalPipeline
-
-from services.image_service import analyze_medical_image
+from pipeline.image_pipeline import ImagePipeline
+from dataclasses import asdict
 from services.multimodal_service import generate_medical_response
 
 
 print("CLI Clinical RAG system ready.")
 
 clinical_pipeline=ClinicalPipeline()
+image_pipeline = ImagePipeline()
 
 # CREATE FILE OBJECT FOR CLI IMAGE
 class CLIImageFile:
@@ -58,6 +59,7 @@ def process_clinical_text(text):
 
 
 # IMAGE PROCESSING
+
 def process_image(image_path):
 
     image_path = os.path.expanduser(
@@ -65,10 +67,8 @@ def process_image(image_path):
     )
 
     if not os.path.isfile(image_path):
-
         print("\nError: Image file not found.")
         print(f"Path received: {repr(image_path)}\n")
-
         return
 
     print("\nProcessing medical image...")
@@ -76,17 +76,17 @@ def process_image(image_path):
     image_file = CLIImageFile(image_path)
 
     try:
+        # Run the new image pipeline.
+        image_result = image_pipeline.process(image_file)
 
-        image_results = analyze_medical_image(
-            image_file
-        )
+        # Convert the dataclass into a dictionary for
+        # compatibility with the existing response service.
+        image_results = asdict(image_result)
 
     finally:
-
         image_file.file.close()
 
     print("\nImage Analysis Results:\n")
-
     print(image_results)
 
     print("\nGenerating AI response...\n")
@@ -132,46 +132,29 @@ def process_multimodal(text, image_path):
     # IMAGE ANALYSIS
     # -----------------------------------
 
-    if image_path:
+    image_results = None
 
+    if image_path:
         image_path = os.path.expanduser(
             image_path.strip()
         )
 
-        print(
-            f"\nDEBUG: {repr(image_path)}"
-        )
-
         if not os.path.isfile(image_path):
-
-            print(
-                "\nError: Image file not found."
-            )
-
-            print(
-                f"Received path: "
-                f"{repr(image_path)}\n"
-            )
-
+            print("\nError: Image file not found.")
+            print(f"Received path: {repr(image_path)}\n")
             return
 
-        print(
-            "\nProcessing medical image..."
-        )
+        print("\nProcessing medical image...")
 
-        image_file = CLIImageFile(
-            image_path
-        )
+        image_file = CLIImageFile(image_path)
 
         try:
-
-            image_results = analyze_medical_image(
-                image_file
-            )
+            image_result = image_pipeline.process(image_file)
+            image_results = asdict(image_result)
 
         finally:
-
             image_file.file.close()
+
 
     # -----------------------------------
     # GENERATE FINAL RESPONSE
